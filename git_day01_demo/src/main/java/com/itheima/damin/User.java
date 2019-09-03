@@ -7,5 +7,7 @@ public class User {
 
     private  String education;
 
+    private  Integer  age ;
+
     private  String user;
 }

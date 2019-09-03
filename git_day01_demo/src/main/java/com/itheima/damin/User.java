@@ -5,5 +5,7 @@ public class User {
 
     private  Integer Id;
 
+    private  String education;
+
     private  String user;
 }

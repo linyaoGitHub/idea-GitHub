@@ -4,4 +4,6 @@ public class User {
     private  String id;
 
     private  Integer Id;
+
+    private  String user;
 }

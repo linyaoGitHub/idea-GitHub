@@ -14,4 +14,5 @@ package com.itheima.damin;/**
  * @create: 2019-09-03 21:31
  **/
 public class mayun1 {
+    private  String ties1;
 }
